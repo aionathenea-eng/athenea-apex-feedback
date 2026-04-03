@@ -1,26 +1,26 @@
-# Athenea Apex — Feedback & Suggestions
+# Athenea Apex — Early Adopters Program
 
-Official feedback repository for [Athenea Apex](https://atheneaapex.com) — professional value betting intelligence.
+## Platinum (10 vagas)
+Plano Annual Complete GRATIS (890/ano)
+Top 10 feedback/sugestoes implementadas
 
-## How to submit a suggestion
+## Gold (110 vagas)
+Administrador no Telegram
+Top 110 em ajuda a comunidade
 
-1. Click **Issues → New Issue**
-2. Use the **Suggestion** template
-3. Describe your idea clearly
-4. Submit
+## Silver (todos)
+Link de afiliado (20% recorrente)
 
-The best suggestions get implemented. **Top 10 contributors earn Platinum status (Annual plan free for 1 year).**
+## Como participar
+1. Subscreva qualquer plano
+2. De sugestoes via Issues
+3. Ajude outros no Telegram
 
-## Early Adopters Program
+Subscrever: https://whop.com/athenea-apex/
 
-| Tier | Reward | Criteria |
-|---|---|---|
-| **Platinum** | Annual plan (£890) free for 1 year | Top 10 feedback implemented |
-| **Gold** | Telegram channel admin | Top 110 community contributors |
-| **Silver** | 20% recurring affiliate commission | All early adopters |
+---
 
-## Links
-
-- Platform: [atheneaapex.com](https://atheneaapex.com)
-- Telegram: [@AtheneaApexAlerts](https://t.me/atheneaapexfree)
-- Bot: [@AtheneaApexBot](https://t.me/AtheneaApexBot)
+Platform: https://atheneaapex.com
+Telegram: https://t.me/atheneaapexfree
+Bot: https://t.me/AtheneaApexBot
+Feedback: https://github.com/aionathenea-eng/athenea-apex-feedback/issues
