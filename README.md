@@ -46,7 +46,7 @@ CLV% = (odds_entrada / odds_fecho - 1) x 100
 | Tier | Vagas | Beneficios |
 |------|-------|-----------|
 | **Platinum** | 10 | Plano Anual Completo **GRATIS** (890EUR/ano) + Badge permanente + Top 10 feedbacks implementados |
-| **Gold** | 110 | Administrador no Telegram + Badge Gold + Top 110 em contribuicao a comunidade |
+| **Gold** | 110 | Badge Gold + acesso prioritario a features beta + Top 110 em contribuicao |
 | **Silver** | Todos | Link de afiliado com **20% recorrente** por cada subscritor referenciado |
 
 *Os lugares sao limitados e atribuidos por ordem de subscricao e contribuicao.*
